@@ -55,3 +55,7 @@ Use responsibly. The developer is not responsible for misuse.
 ## 📜 License
 
 MIT License
+
+Copyright (c) 2026 @haxgray
+
+Permission is hereby granted, free of charge, to any person obtaining a copy...
