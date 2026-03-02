@@ -6,14 +6,12 @@ LlamaLog is a root-based Android Logcat viewer that allows capturing logs per ap
 
 ## 🚀 Features
 
-- 🔍 Per-app log monitoring
-- 🎚 Log level selection (V, D, I, W, E, F)
-- 🎨 Color-coded logs
-- 🔄 Auto-scroll
-- 💾 Save logs to /storage/emulated/0/
-- 🧹 Clear logs
-- 🔐 Root access detection
-- 🔎 App search support
+- Per-app log monitoring
+- Log level selection (V, D, I, W, E, F)
+- Color-coded logs
+-  Save logs to /storage/emulated/0/
+-  Clear logs
+-  App search support
 
 ---
 
@@ -57,5 +55,3 @@ Use responsibly. The developer is not responsible for misuse.
 MIT License
 
 Copyright (c) 2026 @haxgray
-
-Permission is hereby granted, free of charge, to any person obtaining a copy...
